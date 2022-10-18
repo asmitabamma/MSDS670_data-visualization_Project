@@ -1,3 +1,5 @@
 # MSDS670_data-visualization_Project
 
 This project is created for MSDS670 Data Visualization Class. The dataset used for the analysis purpose could be found here https://www.kaggle.com/datasets/whenamancodes/world-university-ranking-2022-2023.
+
+This project utilizes the worldwide university ranking dataset that was extracted from Kaggle. The data is by The Center for World University Rankings (CWUR) which has been providing policy advice, strategic insights and consulting services to governments and universities to improve educational and research outcomes. This dataset carries information on various universities globally where they are ranked in several aspects like research, faculty, employability, education, and more. This week's project would be to analyze the factors that affect the rankings of universities around the world. This research would help students looking for universities and researchers to make their decisions based on the ranking of the university depending on different factors. 
